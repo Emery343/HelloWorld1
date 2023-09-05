@@ -1,0 +1,15 @@
+2023/09/05-10:49:34.808 4 Reusing MANIFEST /home/student/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2023/09/05-10:49:34.808 4 Recovering log #20
+2023/09/05-10:49:34.811 4 Reusing old log /home/student/.config/google-chrome/Default/Session Storage/000020.log 
+2023/09/05-10:49:34.882 4 Level-0 table #24: started
+2023/09/05-10:49:34.883 4 Level-0 table #24: 16777 bytes OK
+2023/09/05-10:49:34.885 4 Delete type=0 #20
+2023/09/05-10:49:34.885 4 Compacting 4@0 + 1@1 files
+2023/09/05-10:49:34.887 4 Generated table #25@0: 1057 keys, 22387 bytes
+2023/09/05-10:49:34.887 4 Compacted 4@0 + 1@1 files => 22387 bytes
+2023/09/05-10:49:34.888 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/05-10:49:34.889 4 Delete type=2 #21
+2023/09/05-10:49:34.889 4 Delete type=2 #15
+2023/09/05-10:49:34.889 4 Delete type=2 #24
+2023/09/05-10:49:34.889 4 Delete type=2 #12
+2023/09/05-10:49:34.889 4 Delete type=2 #18

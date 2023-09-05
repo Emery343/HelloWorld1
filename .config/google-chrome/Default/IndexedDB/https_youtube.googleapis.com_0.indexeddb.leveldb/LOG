@@ -1,0 +1,20 @@
+2023/09/05-10:54:55.099 d4c Creating DB /home/student/.config/google-chrome/Default/IndexedDB/https_youtube.googleapis.com_0.indexeddb.leveldb since it was missing.
+2023/09/05-10:54:55.101 d4c Reusing MANIFEST /home/student/.config/google-chrome/Default/IndexedDB/https_youtube.googleapis.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/05-10:57:04.882 d59 Level-0 table #5: started
+2023/09/05-10:57:04.883 d59 Level-0 table #5: 10645 bytes OK
+2023/09/05-10:57:04.884 d59 Delete type=0 #3
+2023/09/05-10:57:04.884 d4c Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/09/05-11:08:46.962 d4c Level-0 table #7: started
+2023/09/05-11:08:46.963 d4c Level-0 table #7: 12059 bytes OK
+2023/09/05-11:08:46.965 d4c Delete type=0 #4
+2023/09/05-11:08:46.965 d4c Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/09/05-11:08:46.967 d4c Level-0 table #9: started
+2023/09/05-11:08:46.968 d4c Level-0 table #9: 1785 bytes OK
+2023/09/05-11:08:46.969 d4c Delete type=0 #6
+2023/09/05-11:08:46.969 d4c Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 534 : 1
+2023/09/05-11:08:46.969 d4c Compacting 1@0 + 1@1 files
+2023/09/05-11:08:46.970 d4c Generated table #10@0: 136 keys, 1889 bytes
+2023/09/05-11:08:46.970 d4c Compacted 1@0 + 1@1 files => 1889 bytes
+2023/09/05-11:08:46.970 d4c compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/05-11:08:46.971 d4c Delete type=2 #9
+2023/09/05-11:08:46.971 d4c Manual compaction at level-0 from '\x00\x05\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 534 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
